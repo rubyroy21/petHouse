@@ -1,0 +1,54 @@
+{
+  "pet_spec": [
+    {
+      "name": "Olive",
+      "city": "Mumbai",
+      "address": "Bandra",
+      "capacity": "1.5kg",
+      "cost_per_day": 2000,
+      "verified": "Yes",
+      "rating": 4.5,
+      "id": 1
+    },
+    {
+      "name": "Bunty",
+      "city": "Kolkata",
+      "address": "Behala",
+      "capacity": "2.5kg",
+      "cost_per_day": 5000,
+      "verified": "No",
+      "rating": 3.5,
+      "id": 2
+    },
+    {
+      "name": "Bronny",
+      "city": "Kolkata",
+      "address": "Tarakeswar",
+      "capacity": "4.5kg",
+      "cost_per_day": 8000,
+      "verified": "Yes",
+      "rating": "5",
+      "id": 3
+    },
+    {
+      "name": "Lucy",
+      "city": "Uttar Pradesh",
+      "address": "Balia",
+      "capacity": "5kg",
+      "cost_per_day": 11000,
+      "verified": "No",
+      "rating": "2.5",
+      "id": 4
+    },
+    {
+      "name": "Sheero",
+      "city": "Japan",
+      "address": "Kasukabe",
+      "capacity": "6 kg",
+      "cost_per_day": "14994",
+      "verified": "Yes",
+      "rating": "5",
+      "id": 5
+    }
+  ]
+}
